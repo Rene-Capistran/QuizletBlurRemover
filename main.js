@@ -13,7 +13,7 @@
 
 
 setInterval(()=>{
-    if (document.getElementsByClassName("SetPageTerm-side SetPageTerm-largeSide b1sa2ccx")[0] !== undefined){
-        document.getElementsByClassName("SetPageTerm-side SetPageTerm-largeSide b1sa2ccx")[0].className = "SetPageTerm-side SetPageTerm-largeSide";
+    if (document.getElementsByClassName("s1mdxb3l l150nly7 b1sa2ccx")[0] !== undefined){
+        document.getElementsByClassName("s1mdxb3l l150nly7 b1sa2ccx")[0].className = "s1mdxb3l l150nly7 s1q0b356";
     }
 },100);
